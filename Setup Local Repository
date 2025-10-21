@@ -1,0 +1,8 @@
+# Clone repository ke local
+git clone https://github.com/username/nama-repository.git
+cd nama-repository
+
+# Copy file Python Anda ke folder ini
+cp /path/ke/basetx.py .
+
+# Atau jika Anda sudah di folder yang tepat, cukup pindahkan file
